@@ -13,10 +13,10 @@ Well, it dawned on me that the best way to take notes is as Markdown files and p
  - OpenID Connect
  - OAuth 2
  - Actors
-   - User
-   - Client
-   - OpenID Provider
-   - Resource server
+    - User
+    - Client
+    - OpenID Provider
+    - Resource server
  - JWT
  - JWKS
 
