@@ -1,7 +1,7 @@
 # Terms in OpenID Connect (OIDC) and OAuth2 parlance
 
 ## OAuth 2
-----------
+
 OAuth 2 is a set of standards defined by IETF through [RFC 6749](http://tools.ietf.org/html/rfc6749).
 
 Basically, OAuth2 is a means for delegated authorization. 
@@ -9,13 +9,13 @@ Basically, OAuth2 is a means for delegated authorization.
 - Resource owners (we'll define these in a moment) delegate the responsibility of authorizing clients to the authorization server. They establish trust with the authz server (to be elaborated later, but this trust is verifiable)
 
 ## OpenID Connect
----------
+
 *Caveat* OpenID Connect (Oidc henceforth) is in no way related to OpenID
 
 Oidc provides the (missing) authentication piece on top of OAuth2. It authenticates users, issues "Identity Token" containing identity claims and exposes a userinfo endpoint to work with an Identity (i.e. who are we dealing with)  
 This is how oidc [defines itself](http://openid.net/specs/openid-connect-core-1_0.html).
 ## OAuth2 Actors
------------
+
 The RFC doc calls these as roles and it defines four of these:
 
 1. Resource Owner
