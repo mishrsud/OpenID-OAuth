@@ -9,7 +9,7 @@ Well, it dawned on me that the best way to take notes is as Markdown files and p
 
 **Note** This is a living document, it will change (isn't that inevitabel? change that is!)
 
-- Terms
+- [Terms](https://github.com/mishrsud/OpenID-OAuth/blob/master/Terms.md)
  - OpenID Connect
  - OAuth 2
  - Actors
